@@ -10,7 +10,7 @@ class homepage3 extends StatefulWidget {
 }
 
 class _homepage3State extends State<homepage3> {
-  var kkkkk = ["assets/pp.JPG", "assets/riduan.jpg", "assets/rid.jpg"];
+  var kkkkk = ["assets/pp.JPG", "assets/riduan.jpg", "assets/rid.jpg", "assets/ttr.jpg", "assets/rrtt.jpg",];
   @override
   Widget build(BuildContext context) {
     return SafeArea(
