@@ -15,9 +15,11 @@ class _homepage3State extends State<homepage3> {
   Widget build(BuildContext context) {
     return SafeArea(
         child: Scaffold(
+          appBar: AppBar(),
             body: Center(
       child: Column(
         children: [
+          SizedBox(height: 16),
           Container(
             height: 300,
             child: CarouselSlider(
